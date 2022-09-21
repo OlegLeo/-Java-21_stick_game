@@ -4,10 +4,9 @@ SmartComputer_VS_Player | RandomComputer_VS_Player | Player_VS_Player
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-
 !!!!!!!!!!!WARNING!!!!!!!!!
 
-HEAVE___PORTUGUESE___CONTENT
+HEAVY___PORTUGUESE___LANGUAGE___CONTENT
 
 
 This project was one of the exercises during CESAE DIGIAL's Web Development course.
